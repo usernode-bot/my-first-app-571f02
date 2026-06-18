@@ -1,0 +1,15 @@
+{
+  "name": "my-first-app-571f02",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My First app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "pg": "^8.13.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
